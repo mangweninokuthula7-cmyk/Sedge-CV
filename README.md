@@ -24,5 +24,5 @@ Each project folder includes:
 ---
 
 💡 *Author: Nokuthula Mangweni*  
-📧 [nokuthula.ma@sedgent.co.za]
+📧 [nokuthula.m@sedgent.co.za]
 
